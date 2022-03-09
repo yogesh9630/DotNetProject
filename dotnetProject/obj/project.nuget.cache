@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qJFU4EM562K5lUM3yD20D2+RqDeVVMu8i7/Q8s3ASbTk7bNjpgVb+1wy8LBTm0IfBlUVCNY//NyJVtIR+HVJgQ==",
+  "success": true,
+  "projectFilePath": "C:\\.Net Practice\\.Net DevOps\\dotnetProject\\dotnetProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yogeshyadav01\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}

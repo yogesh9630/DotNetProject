@@ -1,0 +1,12 @@
+C:\.Net Practice\.Net DevOps\dotnetProject\bin\Debug\netcoreapp3.1\dotnetProject.exe
+C:\.Net Practice\.Net DevOps\dotnetProject\bin\Debug\netcoreapp3.1\dotnetProject.deps.json
+C:\.Net Practice\.Net DevOps\dotnetProject\bin\Debug\netcoreapp3.1\dotnetProject.runtimeconfig.json
+C:\.Net Practice\.Net DevOps\dotnetProject\bin\Debug\netcoreapp3.1\dotnetProject.runtimeconfig.dev.json
+C:\.Net Practice\.Net DevOps\dotnetProject\bin\Debug\netcoreapp3.1\dotnetProject.dll
+C:\.Net Practice\.Net DevOps\dotnetProject\bin\Debug\netcoreapp3.1\dotnetProject.pdb
+C:\.Net Practice\.Net DevOps\dotnetProject\obj\Debug\netcoreapp3.1\dotnetProject.AssemblyInfoInputs.cache
+C:\.Net Practice\.Net DevOps\dotnetProject\obj\Debug\netcoreapp3.1\dotnetProject.AssemblyInfo.cs
+C:\.Net Practice\.Net DevOps\dotnetProject\obj\Debug\netcoreapp3.1\dotnetProject.csproj.CoreCompileInputs.cache
+C:\.Net Practice\.Net DevOps\dotnetProject\obj\Debug\netcoreapp3.1\dotnetProject.dll
+C:\.Net Practice\.Net DevOps\dotnetProject\obj\Debug\netcoreapp3.1\dotnetProject.pdb
+C:\.Net Practice\.Net DevOps\dotnetProject\obj\Debug\netcoreapp3.1\dotnetProject.genruntimeconfig.cache
